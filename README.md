@@ -1,2 +1,3 @@
-# beginners-guide-to-technical-writing
-The Beginner's Guide To Technical Writing
+# The beginner’s guide to technical writing
+
+Полезные материалы для технических писателей
