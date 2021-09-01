@@ -46,6 +46,10 @@
   [*The Inmates Are Running the Asylum: Why High Tech Products Drive Us Crazy and How to
   Restore the Sanity*](https://www.amazon.com/Inmates-Are-Running-Asylum-Products/dp/0672326140)
 
+* **Philip Tory**
+
+    [*Professional Technical Writing Course Training Manual*](http://www.technicalwritingcourse.co.uk/wp-content/uploads/Philip_Torys_FREE_Technical_Writing_Course_Training_Manual_v18.5.pdf)
+
 ## Книги на русском
 
 * **Ю.В. Кагарлицкий**
