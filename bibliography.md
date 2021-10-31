@@ -15,7 +15,7 @@
 * **Jared Bhatti, Zachary Sarah Corleissen, Jen Lambourne, David Nunez,
   Heidi Waterhouse**
 
-  [*Docs for Developers*](https://link.springer.com/book/10.1007/978-1-4842-7217-6#authorsandaffiliationsbook)
+  [*Docs for Developers*](https://link.springer.com/book/10.1007/978-1-4842-7217-6)
 
 * **Michael Bremer**
 
