@@ -12,6 +12,11 @@
   [*Every Page Is Page One: Topic-Based Writing for Technical Communication and the Web
   Paperback*](https://www.amazon.com/Every-Page-One-Topic-Based-Communication/dp/1937434281)
 
+* **Jared Bhatti, Zachary Sarah Corleissen, Jen Lambourne, David Nunez,
+  Heidi Waterhouse**
+
+  [*Docs for Developers*](https://link.springer.com/book/10.1007/978-1-4842-7217-6#authorsandaffiliationsbook)
+
 * **Michael Bremer**
 
   [*Untechnical Writing - How to Write About Technical Subjects and Products So Anyone Can
