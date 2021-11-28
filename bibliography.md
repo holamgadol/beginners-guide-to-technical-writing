@@ -12,10 +12,13 @@
   [*Every Page Is Page One: Topic-Based Writing for Technical Communication and the Web
   Paperback*](https://www.amazon.com/Every-Page-One-Topic-Based-Communication/dp/1937434281)
 
-* **Jared Bhatti, Zachary Sarah Corleissen, Jen Lambourne, David Nunez,
-  Heidi Waterhouse**
+* **Jared Bhatti, Zachary Sarah Corleissen, Jen Lambourne, David Nunez, Heidi Waterhouse**
 
   [*Docs for Developers*](https://link.springer.com/book/10.1007/978-1-4842-7217-6)
+
+* **Jasmin Blanchette, Trolltech, a Nokia company**
+
+  [The Little Manual of API Design](https://github.com/papers-we-love/papers-we-love/blob/master/api_design/api-design.pdf)
 
 * **Michael Bremer**
 
@@ -39,11 +42,25 @@
   Restore the
   Sanity*](https://www.amazon.com/Inmates-Are-Running-Asylum-Products/dp/0672326140)
 
+* **Andrew Etter**
+
+  [Modern Technical Writing: An Introduction to Software Documentation](https://www.amazon.com/Modern-Technical-Writing-Introduction-Documentation-ebook/dp/B01A2QL9SS)
+
+* **Richard L. Hamilton**
+
+  [*Managing Writers: A Real World Guide to Managing Technical
+  Documentation*](https://www.amazon.com/Managing-Writers-World-Technical-Documentation-ebook-dp-B07PQY81DC/dp/B07PQY81DC/ref=mt_other?_encoding=UTF8&me=&qid=)
+
 * **Alan S. Pringle**
 
   [*Technical Writing 101: A Real-World Guide to Planning and Writing Technical
   Documentation, Second
   Edition*](https://www.amazon.com/Technical-Writing-101-Real-World-Planning-dp-0970473362/dp/0970473362/ref=dp_ob_title_bk)
+
+* **Diana C. Reep**
+
+  [*Technical Writing Principles, Strategies &
+  Readings*](https://archive.org/details/technicalwriting00reep_0)
 
 * **William Strunk Jr., E. White**
 
@@ -58,6 +75,15 @@
 
   [*Professional Technical Writing Course Training
   Manual*](http://www.technicalwritingcourse.co.uk/wp-content/uploads/Philip_Torys_FREE_Technical_Writing_Course_Training_Manual_v18.5.pdf)
+
+* **Bonnie Trenga**
+
+  [*The curious case of the misplaced modifier : how to solve the seven mysteries of weak
+  writing*](https://archive.org/details/curiouscaseofmis00tren)
+
+* **Stephen Wilbers**
+
+  [Keys to great writing](https://archive.org/details/keystogreatwriti00wilb)
 
 ## Книги на русском
 
