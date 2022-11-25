@@ -61,6 +61,10 @@
 
   [*Technical Writing Principles, Strategies &
   Readings*](https://archive.org/details/technicalwriting00reep_0)
+  
+* **Louis Rosenfeld, Peter Morville, Jorge Arango**
+
+  [*Information Architecture*](https://www.oreilly.com/library/view/information-architecture-4th/9781491913529/)
 
 * **William Strunk Jr., E. White**
 
@@ -98,6 +102,10 @@
 * **М. Ильяхов, Л. Сарычева**
 
   [Пиши – сокращай. Как создавать сильный текст](https://www.alpinabook.ru/catalog/book-pishi-sokrashchay/)
+  
+* **М. Ильяхов**
+
+  [Ясно, понятно. Как доносить мысли и убеждать людей с помощью слов](https://alpinabook.ru/catalog/book-yasno-ponyatno/)
 
 * **Ю.В. Кагарлицкий**
 
